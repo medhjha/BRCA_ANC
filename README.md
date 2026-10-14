@@ -63,10 +63,6 @@ Three packages are not on CRAN or Bioconductor: DGCA from GitHub
 (andymckenzie/DGCA), estimate from R-Forge, and immunedeconv from GitHub
 (omnideconv/immunedeconv).
 
-## Repository URL
-
-Replace the placeholder repository URL in the manuscript methods (software and
-data availability) with this repository address once it is published.
 
 ## Data
 
