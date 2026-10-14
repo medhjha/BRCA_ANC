@@ -1,0 +1,37 @@
+# R 4.4 with Bioconductor 3.20
+
+# CRAN
+data.table
+yaml
+ggplot2
+patchwork
+igraph
+ggrepel
+lavaan
+
+# Bioconductor
+TCGAbiolinks
+WGCNA
+DESeq2
+limma
+sesame
+genefu
+STRINGdb
+lionessR
+clusterProfiler
+org.Hs.eg.db
+estimate
+immunedeconv
+SummarizedExperiment
+TxDb.Hsapiens.UCSC.hg38.knownGene
+
+# some packages are not on CRAN or Bioconductor:
+#   DGCA        from GitHub (andymckenzie/DGCA)
+#   estimate    from R-Forge
+#   immunedeconv from GitHub (omnideconv/immunedeconv)
+
+# Python 3.11
+# cptac
+# pandas
+# numpy
+# scipy

@@ -1,0 +1,21 @@
+# Paths and parameters. Change the paths to match your machine.
+# Every script reads from this file.
+
+root: /path/to/brca-ancestry
+data: /path/to/brca-ancestry/data
+results: /path/to/brca-ancestry/results
+
+cohorts:
+  discovery: EUR
+  test: AFR
+
+seeds:
+  global: 42
+
+params:
+  perm_preservation: 200
+  perm_entanglement: 200
+  perm_subtype_null: 200
+  perm_cptac: 2000
+  fdr: 0.05
+  edge_z_threshold: 3.5
